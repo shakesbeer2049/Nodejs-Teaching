@@ -1,0 +1,32 @@
+// Resource: User
+// /user : GET
+// /user : POST
+// /user : PATCH
+// /user : DELETE
+
+// Resource: Tour
+// /tour : GET
+// /tour : POST
+// /tour : PATCH
+// /tour : DELETE
+
+// Resource: Bookings
+// /booking : GET
+// /booking : POST
+// /booking : PATCH
+// /booking : DELETE
+
+// -------------------------
+
+// /getUser
+// /createUser
+// /updateUser
+// /deleteUser
+// /getTour
+// /createTour
+// /updateTour
+// /deleteTour
+// /getBooking
+// /createBooking
+// /updateBooking
+// /deleteBooking
